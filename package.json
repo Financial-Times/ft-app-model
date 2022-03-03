@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wilsonpage/model.git"
+    "url": "https://github.com/Financial-Times/ft-app-model"
   },
   "keywords": [
     "model"
@@ -19,7 +19,7 @@
   },
   "gitHead": "ef12b4cdd358fd5dfcab16a3328dfacf9e636027",
   "dependencies": {
-    "utils": "github:wilsonpage/utils",
+    "utils": "github:financial-times/ft-app-utils",
     "event": "github:wilsonpage/event",
     "mixin": "github:wilsonpage/mixin"
   },

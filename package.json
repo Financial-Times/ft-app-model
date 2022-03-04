@@ -20,8 +20,8 @@
   "gitHead": "ef12b4cdd358fd5dfcab16a3328dfacf9e636027",
   "dependencies": {
     "utils": "github:financial-times/ft-app-utils",
-    "event": "github:wilsonpage/event",
-    "mixin": "github:wilsonpage/mixin"
+    "event": "github:financial-times/ft-app-event",
+    "mixin": "github:financial-times/ft-app-mixin"
   },
   "devDependencies": {
     "buster": "~0.6.2",
